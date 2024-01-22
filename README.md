@@ -1,3 +1,8 @@
+REPOSITORY ARCHIVED
+==================
+This project is from the early era of responsive/mobile web development.
+This functionality has been built into web browsers for years now.
+
 RWD Viewport Testing
 ==================
 When I stumbled upon mattkersley's Responsive Design Testing tool I was inspired to create something even simpler. I took his idea and turned it into a single view that animates the width and height to popular device sizes.
